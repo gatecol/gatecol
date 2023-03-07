@@ -1,7 +1,7 @@
 ### Hi there 👋 this is crockett!
 
 ### 👨‍💻: About Me :
-I am a Front End Developer from Belarus <svg img="https://commons.wikimedia.org/wiki/Category:Flag_of_Belarus_(white-red-white)#/media/File:Flag_of_Belarus_(1918,_1991%E2%80%931995).svg" width="30"> . Currently live in Poland🇵🇱
+I am a Front End Developer from Belarus <img img="https://commons.wikimedia.org/wiki/Category:Flag_of_Belarus_(white-red-white)#/media/File:Flag_of_Belarus_(1918,_1991%E2%80%931995).svg" width="30"> . Currently live in Poland :poland:
 
 - 🌱 I’m currently learning React
 
