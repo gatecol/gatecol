@@ -18,4 +18,5 @@ I am a Front End Developer from Belarus. Currently live in Poland <img src="http
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" height="40">&nbsp;
 </div>
+
 [![gatecol github stats](https://github-readme-stats.vercel.app/api?username=gatecol&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/gatecol)
