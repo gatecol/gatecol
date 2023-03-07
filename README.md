@@ -1,7 +1,7 @@
 ### Hi there 👋 this is crockett!
 
 ### 👨‍💻 About Me :
-I am a Front End Developer from Belarus. Currently live in Poland <img src="https://openmoji.org/data/color/svg/1F1F5-1F1F1.svg" width="30">
+I am a Front End Developer from Belarus. Currently live in Poland <img src="https://openmoji.org/data/color/svg/1F1F5-1F1F1.svg" width="16">
 
 - 🌱 I’m currently learning React
 
