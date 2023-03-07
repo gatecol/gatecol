@@ -1,11 +1,21 @@
 ### Hi there 👋 this is crockett!
+
+### 👨‍💻: About Me :
+I am a Front End Developer from Belarus <svg img="https://commons.wikimedia.org/wiki/Category:Flag_of_Belarus_(white-red-white)#/media/File:Flag_of_Belarus_(1918,_1991%E2%80%931995).svg" width="30"> . Currently live in Poland🇵🇱
+
+- 🌱 I’m currently learning React
+
+---
+  
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" height="40">&nbsp;
+</div>
 [![crockett1981 github stats](https://github-readme-stats.vercel.app/api?username=gatecol&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/gatecol)
-
-- 🌱 I’m currently learning C, C++ and C#
-
-## What i know
-![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
-![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="64">
-![dotNet](https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg)
-![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
