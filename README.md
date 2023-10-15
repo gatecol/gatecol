@@ -15,7 +15,7 @@ I am a Front End Developer from Belarus. Currently live in Poland <img src="http
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width="40" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" height="40">&nbsp;
 </div>
 
