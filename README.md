@@ -1,19 +1,12 @@
 ### Hi there 👋 this is crockett!
 
 ### 👨‍💻 About Me :
-I am a Front End Developer from Belarus. Currently live in Poland <img src="https://openmoji.org/data/color/svg/1F1F5-1F1F1.svg" width="16">
-
-- 🌱 I’m currently learning React
+I am a Developer from Belarus. Currently live in Poland <img src="https://openmoji.org/data/color/svg/1F1F5-1F1F1.svg" width="16">
 
 ---
   
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="40" height="40">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" height="40">&nbsp;
